@@ -12,3 +12,5 @@ main commit 6
 feature commit 1
 
 feature commit 2
+
+feature new 1
