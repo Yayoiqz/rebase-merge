@@ -14,3 +14,5 @@ feature commit 1
 feature commit 2
 
 feature new 1
+
+feature new 2
